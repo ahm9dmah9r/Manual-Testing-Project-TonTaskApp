@@ -73,8 +73,5 @@ This project has been manually tested thoroughly based on 19 detailed user stori
  ## Conclusion
 Based on the testing activities and the resolution of major issues, the Ton Task mobile app is considered to meet its functional requirements as per the user stories.
  The app is now ready for release or client delivery, pending final approval.
- ## Author 
- Ahmed Maher
-
 ## Author
 Ahmed Maher
